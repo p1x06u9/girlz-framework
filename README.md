@@ -14,7 +14,7 @@ GIRLS 是一個專為 Gemini CLI 設計的開發框架，結合了 **GIRLS (Gene
 
 1. 克隆此倉庫：
    ```bash
-   git clone https://github.com/你的用戶名/girlz-framework.git
+   git clone https://github.com/你的用戶名/girls-framework.git
    ```
 2. 將 `SKILL.md` 複製或連結到您的 Gemini CLI skills 目錄：
    ```bash
