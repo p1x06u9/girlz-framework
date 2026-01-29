@@ -64,4 +64,4 @@ GIRLS 是一個專為 Gemini CLI 設計的開發框架，結合了 **GIRLS (Gene
 
 ## 授權
 
-MIT License
+GPL 3.0 License
